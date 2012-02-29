@@ -44,9 +44,9 @@
   <!-- <project path="vendor/google" name="Hashcode/proprietary_vendor_google" /> -->
   <project path="vendor/verizon" name="STS-Dev-Team/proprietary_vendor_verizon" />
   <project path="vendor/miui" name="STS-Dev-Team/android_vendor_miui" revision="master" />
-  <project path="vendor/motorola/solana" name="STS-Dev-Team/android_vendor_motorola_solana" revision="ics-miui" />
-  <project path="vendor/motorola/targa" name="STS-Dev-Team/android_vendor_motorola_targa" revision="ics-miui" />
-  <project path="vendor/motorola/spyder" name="STS-Dev-Team/android_vendor_motorola_spyder" revision="ics-miui" />
+  <project path="vendor/motorola/solana" name="STS-Dev-Team/android_vendor_motorola_solana" />
+  <project path="vendor/motorola/targa" name="STS-Dev-Team/android_vendor_motorola_targa" />
+  <project path="vendor/motorola/spyder" name="STS-Dev-Team/android_vendor_motorola_spyder" />
   <project path="packages/apps/DockAudio" name="Atrix-Dev-Team/android_packages_apps_DockAudio" revision="refs/heads/gingerbread" />
   <project path="packages/apps/FileExplorer" name="MiCode/FileExplorer" revision="master" />
   <project path="packages/apps/Notes" name="MiCode/Notes" revision="master" />
