@@ -26,7 +26,7 @@
   <project path="packages/providers/ContactsProvider" name="STS-Dev-Team/android_packages_providers_ContactsProvider" />
   <project path="system/core" name="STS-Dev-Team/android_system_core" />
   <project path="vendor/cm" name="STS-Dev-Team/android_vendor_cm" />
-  <project path="packages/apps/SoundRecorder" name="MiCode/SoundRecorder" />
+  <project path="packages/apps/SoundRecorder" name="MiCode/SoundRecorder" revision="master" />
 
   <!-- CM optionals -->
   <project path="packages/apps/Usb" name="CyanogenDefy/android_packages_apps_Usb" />
