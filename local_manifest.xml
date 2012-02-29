@@ -50,6 +50,6 @@
   <project path="packages/apps/DockAudio" name="Atrix-Dev-Team/android_packages_apps_DockAudio" revision="refs/heads/gingerbread" />
   <project path="packages/apps/FileExplorer" name="MiCode/FileExplorer" revision="master" />
   <project path="packages/apps/Notes" name="MiCode/Notes" revision="master" />
-  <project path="packages/apps/Compass" name="MiCode/Notes" revision="Compass" />
+  <project path="packages/apps/Compass" name="MiCode/Compass" revision="master" />
 
 </manifest>
