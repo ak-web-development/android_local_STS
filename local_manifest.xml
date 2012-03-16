@@ -36,6 +36,7 @@
   <project path="device/motorola/solana" name="STS-Dev-Team/android_device_motorola_solana" revision="ics-miui" />
   <project path="device/motorola/targa" name="STS-Dev-Team/android_device_motorola_targa" revision="ics-miui" />
   <project path="device/motorola/spyder" name="STS-Dev-Team/android_device_motorola_spyder" revision="ics-miui" />
+  <project path="device/motorola/maserati" name="STS-Dev-Team/android_device_motorola_maserati" revision="ics-miui" />
   <project path="hardware/ti/camera" name="Hashcode/android_hardware_ti_camera" revision="refs/heads/ics-hybrid-solana" />
   <project path="hardware/ti/omap4xxx" name="Hashcode/android_hardware_ti_omap4xxx" revision="refs/heads/ics-hybrid" />
   <project path="hardware/ti/syslink" name="Hashcode/android_hardware_ti_syslink" />
@@ -47,6 +48,7 @@
   <project path="vendor/motorola/solana" name="STS-Dev-Team/android_vendor_motorola_solana" />
   <project path="vendor/motorola/targa" name="STS-Dev-Team/android_vendor_motorola_targa" />
   <project path="vendor/motorola/spyder" name="STS-Dev-Team/android_vendor_motorola_spyder" />
+  <project path="vendor/motorola/maserati" name="STS-Dev-Team/android_vendor_motorola_maserati" />
   <project path="packages/apps/DockAudio" name="Atrix-Dev-Team/android_packages_apps_DockAudio" revision="refs/heads/gingerbread" />
   <project path="packages/apps/FileExplorer" name="MiCode/FileExplorer" revision="master" />
   <project path="packages/apps/Notes" name="MiCode/Notes" revision="master" />
